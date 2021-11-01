@@ -70,7 +70,7 @@ class HomeViewController: UIViewController {
     }
 }
 //
-//MARK: OperationsViewControllerProtocol
+//MARK: OperationsViewControllerProtocol Confirm
 //
 extension HomeViewController: OperationsViewControllerProtocol {
     func passedResult(_ result: Int) {
